@@ -14,5 +14,4 @@
 
 
 <p align="center">
-  
 ![My GitHub stats✨](https://github-readme-stats.vercel.app/api?username=confetti39&show_icons=true&theme=graywhite)
