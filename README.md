@@ -9,8 +9,8 @@
 <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%B2%B2&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%B2%B2&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> -->
 
 <h3 align="center">✨ My Github Stats ✨</h3>
   
